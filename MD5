@@ -1,0 +1,11 @@
+cdfc81772d92d328fb9709db21aea04e *DESCRIPTION
+13f43c91e36a745afd4f8c467229933a *NAMESPACE
+48dd34bbd17b72b87070b1f976e8be7c *R/functions.R
+78a4b50cae524e0d1bc4b17ce4275bef *R/pflamelet.R
+ce7f6f6edce263ced6f9696ae99f3254 *man/build.flamelet.Rd
+65c9e7a251efe4cadd1d6bece71f1a14 *man/flamelet.band.Rd
+72651f1b0da4ead3521463f93cef6a35 *man/flamelet.clean.Rd
+87796e49ca1c7bd52fcf9e1ec87e20be *man/flamelet.plot.Rd
+ea7a27d4251615871bfbb9e929a12378 *man/mpbandwidth.Rd
+c5c8d9c52bb7c18291872e59c2eb3c20 *man/permutation.test.Rd
+5b564bf5ad5f17198dd6a9e90d18b6ca *man/pflamelet.Rd
